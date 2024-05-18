@@ -9,4 +9,6 @@ export const feeds = [
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCA4mcdqqSYX9BgW1fDOMaNQ',
     // aftertouch audio
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCokeGDx1cnibjb16KJHqbiQ',
+    // Chris Young
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCvVsD2hFZRgKNH7x5Q1wwug',
 ]

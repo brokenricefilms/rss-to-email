@@ -7,4 +7,6 @@ export const feeds = [
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCNIXUCzBMXoWu69iDOtbx5A',
     // Ben Lee
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCA4mcdqqSYX9BgW1fDOMaNQ',
+    // aftertouch audio
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCokeGDx1cnibjb16KJHqbiQ',
 ]

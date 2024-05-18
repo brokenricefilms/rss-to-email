@@ -56,7 +56,7 @@ export const feeds = [
     // CRAZY BROKE ASIAN
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCQDjC9axwfSnYUuO5_d0xYg',
     // Peter McKinnon 
-    'https://www.youtube.com/feeds/videos.xml?channel_id=UC3DkFux8Iv-aYnTRWzwaiBA' 
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UC3DkFux8Iv-aYnTRWzwaiBA',
     // Phillip Q Vu
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCtDxlEsiIM4PSawQX1DKPlw',
     // Ryan Ng Films

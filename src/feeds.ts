@@ -79,4 +79,6 @@ export const feeds = [
      'https://www.youtube.com/feeds/videos.xml?channel_id=UCt-1ijH9G4J6Uy6KzDMHwCw',
      // Cooking Hobbyist Guy, Yonam 
      'https://www.youtube.com/feeds/videos.xml?channel_id=UCyozK5OFN5lDrwim5wqQnLA',
+     // life of riza
+     'https://www.youtube.com/feeds/videos.xml?channel_id=UCRZ1OquIwGiUjJS7SXW4Fdg',
 ]

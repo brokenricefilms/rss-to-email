@@ -81,4 +81,6 @@ export const feeds = [
      'https://www.youtube.com/feeds/videos.xml?channel_id=UCyozK5OFN5lDrwim5wqQnLA',
      // life of riza
      'https://www.youtube.com/feeds/videos.xml?channel_id=UCRZ1OquIwGiUjJS7SXW4Fdg',
+     // Vladislav Novickij
+     'https://www.youtube.com/feeds/videos.xml?channel_id=UCwJEMA_2AumsHM781wohydA',
 ]

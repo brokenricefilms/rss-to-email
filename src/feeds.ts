@@ -85,4 +85,6 @@ export const feeds = [
      'https://www.youtube.com/feeds/videos.xml?channel_id=UCwJEMA_2AumsHM781wohydA',
      // Blaine Westropp
      'https://www.youtube.com/feeds/videos.xml?channel_id=UCkL_KReMi40wcPeTMXGSeAw',
+     // Standard Story Company
+     'https://www.youtube.com/feeds/videos.xml?channel_id=UCFNWnGcWFs8d_RjlLLXdh_A',
 ]

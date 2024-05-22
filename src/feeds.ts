@@ -64,27 +64,29 @@ export const feeds = [
     // Samuel Nam 
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCovagaiL6pBYWfvThaXVniA',
     // Servida Stream
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCJn455YDa6ZT1Y40xm0pW8w', 
-     // Taeha Types
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCMHXMAeKkI6HXlPfLiYvo9g',
-     // The Editing Podcast
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCJJV8pckL_OiW-IpzwPqAfw',
-     // This Guy Edits 
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCcPuBEAwuF6XWXkcXJXJwsg', 
-     // wholesomesimon
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCBk1w-2BLkm5L72tc0eI74g', 
-     // Yat Fung Leung
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCRqtAQ61-inw_8oMpEb4mug',
-     // 岡奈 なな子の日常short movie
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCt-1ijH9G4J6Uy6KzDMHwCw',
-     // Cooking Hobbyist Guy, Yonam 
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCyozK5OFN5lDrwim5wqQnLA',
-     // life of riza
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCRZ1OquIwGiUjJS7SXW4Fdg',
-     // Vladislav Novickij
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCwJEMA_2AumsHM781wohydA',
-     // Blaine Westropp
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCkL_KReMi40wcPeTMXGSeAw',
-     // Standard Story Company
-     'https://www.youtube.com/feeds/videos.xml?channel_id=UCFNWnGcWFs8d_RjlLLXdh_A',
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCJn455YDa6ZT1Y40xm0pW8w', 
+    // Taeha Types
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCMHXMAeKkI6HXlPfLiYvo9g',
+    // The Editing Podcast
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCJJV8pckL_OiW-IpzwPqAfw',
+    // This Guy Edits 
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCcPuBEAwuF6XWXkcXJXJwsg', 
+    // wholesomesimon
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCBk1w-2BLkm5L72tc0eI74g', 
+    // Yat Fung Leung
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCRqtAQ61-inw_8oMpEb4mug',
+    // 岡奈 なな子の日常short movie
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCt-1ijH9G4J6Uy6KzDMHwCw',
+    // Cooking Hobbyist Guy, Yonam 
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCyozK5OFN5lDrwim5wqQnLA',
+    // life of riza
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCRZ1OquIwGiUjJS7SXW4Fdg',
+    // Vladislav Novickij
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCwJEMA_2AumsHM781wohydA',
+    // Blaine Westropp
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCkL_KReMi40wcPeTMXGSeAw',
+    // Standard Story Company
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCFNWnGcWFs8d_RjlLLXdh_A',
+    // Paul E.T.
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UC6me-RzbQFQ-kRyr6BlGZWg',
 ]

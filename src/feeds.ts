@@ -89,4 +89,6 @@ export const feeds = [
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCFNWnGcWFs8d_RjlLLXdh_A',
     // Paul E.T.
     'https://www.youtube.com/feeds/videos.xml?channel_id=UC6me-RzbQFQ-kRyr6BlGZWg',
+    // The Studio
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCG7J20LhUeLl6y_Emi7OJrA',
 ]

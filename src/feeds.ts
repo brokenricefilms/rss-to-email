@@ -93,4 +93,8 @@ export const feeds = [
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCG7J20LhUeLl6y_Emi7OJrA',
     // DIY Perks
     'https://www.youtube.com/feeds/videos.xml?channel_id=UCUQo7nzH1sXVpzL92VesANw',
+    // dannyrio
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UCpI1aSij9qlOe01Kh2Y2aWw',
+    // kold
+    'https://www.youtube.com/feeds/videos.xml?channel_id=UC_tXKhJlqZrgr_qdhEKmrDQ',
 ]

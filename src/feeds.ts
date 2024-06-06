@@ -62,10 +62,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCUQo7nzH1sXVpzL92VesANw',
   // dannyrio
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCpI1aSij9qlOe01Kh2Y2aWw',
-  // Xah Lee
-  'https://www.youtube.com/feeds/videos.xml?channel_id=UCXEJNKH9I4xsoyUNN3IL96A',
-  // George Hotz archive
-  'https://www.youtube.com/feeds/videos.xml?channel_id=UCXEJNKH9I4xsoyUNN3IL96A',
   // Michael Reeves
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCtHaxi4GTYDpJgMSGy7AeSw',
 ]

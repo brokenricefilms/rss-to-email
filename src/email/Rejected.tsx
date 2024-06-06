@@ -22,7 +22,7 @@ export default ({ feed, reason }: Props) => {
 
 const box = {
   padding: '16px 32px',
-  backgroundColor: '#c92a2a',
+  backgroundColor: '#ffffff',
 }
 
 const text = {

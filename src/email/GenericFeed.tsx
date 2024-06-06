@@ -49,16 +49,16 @@ const box = {
 }
 
 const header = {
-  color: '#212529',
+  color: '#111111',
   fontFamily: 'system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif',
   fontSize: '16px',
   margin: 0,
 }
 
 const headerLink = {
-  color: '#212529',
+  color: '#111111',
   textDecoration: 'underline',
-  textDecorationColor: '#1098ad',
+  textDecorationColor: '#000000',
   textDecorationStyle: 'solid' as const,
   textUnderlineOffset: '1px',
 }
@@ -69,19 +69,19 @@ const section = {
 
 const anchor = {
   fontFamily: 'system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif',
-  color: '#095c6b',
+  color: '#000000',
   fontSize: '20px',
 }
 
 const date = {
-  color: '#495057',
+  color: '#777777',
   fontFamily: 'Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace',
   fontSize: '12px',
   margin: '0 0 8px',
 }
 
 const paragraph = {
-  color: '#495057',
+  color: '#777777',
   fontFamily: 'system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif',
   fontSize: '16px',
   lineHeight: '24px',
@@ -90,10 +90,10 @@ const paragraph = {
 
 const blockquote = {
   paddingLeft: '12px',
-  borderLeft: '2px solid #095c6b',
+  borderLeft: '2px solid #000000',
 }
 
 const hr = {
   margin: '24px 0 0',
-  borderTopColor: '#dee2e6',
+  borderTopColor: '#777777',
 }

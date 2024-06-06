@@ -6,7 +6,7 @@
 
   color-scheme: light dark;
   color: whitesmoke;
-  background-color: #383838;
+  background-color: #ffffff;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -38,14 +38,14 @@ button {
   --border-radius: 5px;
 
   border: 1px solid gray;
-  background-color: #383838;
+  background-color: #ffffff;
   border-right-width: 0;
   font: inherit;
   font-size: 0.8em;
 }
 
 button.active {
-  background-color: #808080;
+  background-color: #ffffff;
   font-weight: 800;
 }
 
@@ -99,7 +99,7 @@ iframe {
 
 @media (prefers-color-scheme: light) {
   :root {
-    color: #242424;
+    color: #111111;
     background-color: white;
   }
 

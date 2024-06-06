@@ -52,7 +52,7 @@ export default function Email({ feeds, itemCount, actionUrl, from, initialRun }:
 }
 
 const main = {
-  backgroundColor: '#f8f9fa',
+  backgroundColor: '#ffffff',
 }
 
 const container = {
@@ -62,19 +62,19 @@ const container = {
 }
 
 const section = {
-  color: '#495057',
+  color: '#000000',
   fontFamily: 'Dank Mono,Operator Mono,Inconsolata,Fira Mono,ui-monospace,SF Mono,Monaco,Droid Sans Mono,Source Code Pro,monospace',
   fontSize: '12px',
   textAlign: 'center' as const,
   margin: '0',
   padding: '16px 48px',
-  backgroundColor: '#e9ecef',
+  backgroundColor: '#ffffff',
 }
 
 const link = {
-  color: '#495057',
+  color: '#000000',
   textDecoration: 'underline',
-  textDecorationColor: '#1098ad',
+  textDecorationColor: '#15803d',
   textDecorationStyle: 'solid' as const,
   textUnderlineOffset: '1px',
 }

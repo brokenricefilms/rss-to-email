@@ -64,4 +64,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCpI1aSij9qlOe01Kh2Y2aWw',
   // Michael Reeves
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCtHaxi4GTYDpJgMSGy7AeSw',
+  // Peej ENT
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UCHpIQdMhq64uBfk25llvHmA',
 ]

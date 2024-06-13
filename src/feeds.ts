@@ -66,4 +66,6 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCtHaxi4GTYDpJgMSGy7AeSw',
   // Peej ENT
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCHpIQdMhq64uBfk25llvHmA',
+//Joshua Kirk
+'https://www.youtube.com/feeds/videos.xml?channel_id=UC8mv1jxVbta9thZUP1uHeug',
 ]

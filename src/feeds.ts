@@ -66,6 +66,10 @@ export const feeds = [
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCtHaxi4GTYDpJgMSGy7AeSw',
   // Peej ENT
   'https://www.youtube.com/feeds/videos.xml?channel_id=UCHpIQdMhq64uBfk25llvHmA',
-//Joshua Kirk
-'https://www.youtube.com/feeds/videos.xml?channel_id=UC8mv1jxVbta9thZUP1uHeug',
+  //Joshua Kirk
+  'https://www.youtube.com/feeds/videos.xml?channel_id=UC8mv1jxVbta9thZUP1uHeug',
+  // github
+  'https://github.com/brokenricefilms.private.atom?token=AJRR6X3XBWHPVJIKNHAJRGWEPUHY4',
+  // vnhacker Thái
+'https://vnhacker.substack.com/feed',
 ]

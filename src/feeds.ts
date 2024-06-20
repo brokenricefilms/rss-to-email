@@ -72,4 +72,6 @@ export const feeds = [
   'https://github.com/brokenricefilms.private.atom?token=AJRR6X3XBWHPVJIKNHAJRGWEPUHY4',
   // vnhacker Thái
 'https://vnhacker.substack.com/feed',
+// Thomas Lm, tips on upwork
+'https://www.youtube.com/feeds/videos.xml?channel_id=UCgqtQQrIzK9D0D_JKR9j45A',
 ]

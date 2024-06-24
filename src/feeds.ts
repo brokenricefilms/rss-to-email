@@ -1,4 +1,4 @@
 export const feeds = [
   // vnhacker Thái
-'https://vnhacker.substack.com/feed',
+  'https://vnhacker.substack.com/feed',
 ]
